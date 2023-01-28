@@ -1,0 +1,18 @@
+const PI = 3.14
+// can't change const
+
+What is the difference between var and let?
+
+Var can be redeclared while let cannot.
+
+What is the difference between var and const?
+
+var can be redefined while const cannot.
+
+What is the difference between let and const?
+
+let can be redefined while const cannot
+
+What is hoisting?
+
+It is when JS moves declarations to the top of code
